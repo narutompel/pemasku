@@ -15,7 +15,7 @@
     <header>
       <div class="container logo">
         <nav>
-          <a href="#"><img src="asset/img/logo.jpg" alt=""></a> 
+          <a href="index.php"><img src="asset/img/logo.jpg" alt=""></a> 
         </nav>
       </div>
     </header>
